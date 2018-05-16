@@ -17,18 +17,13 @@ https://clean-scarer.glitch.me/
 
 #### Examples:
 
-<li>
 <p>Empty string:</p><code><a href="https://clean-scarer.glitch.me/api/timestamp/" target="_blank">https://clean-scarer.glitch.me/api/timestamp/</a></code>
-</li>
-<li>
+
 <p>Invalid string:</p><code><a href="https://clean-scarer.glitch.me/api/timestamp/alwsjko6" target="_blank">https://clean-scarer.glitch.me/api/timestamp/alwsjko6</a></code>
-</li>
-<li>
+
 <p>UTC string:</p><code><a href="https://clean-scarer.glitch.me/api/timestamp/2015-12-25" target="_blank">https://clean-scarer.glitch.me/api/timestamp/2015-12-25</a></code>
-</li>
-<li>
+
 <p>Unix string:</p><code><a href="https://clean-scarer.glitch.me/api/timestamp/1450137600" target="_blank">https://clean-scarer.glitch.me/api/timestamp/1450137600</a></code>
-</li>
 
 #### Example Output:
 
